@@ -1,0 +1,1 @@
+# DDevelopment-and-comparative-analysis-of-five-generative-neural-network-architectures
